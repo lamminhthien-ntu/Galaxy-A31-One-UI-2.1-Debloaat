@@ -1,1 +1,2 @@
 com.sec.imsservice (Delete it, then no cellphone signal, no wifi, no 4g,3g,2g)
+com.android.networkstack.inprocess  (Delete it, break wifi)
