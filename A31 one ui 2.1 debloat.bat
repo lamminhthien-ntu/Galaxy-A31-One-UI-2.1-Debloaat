@@ -99,8 +99,6 @@ pm uninstall --user 0 com.google.android.partnersetup
 pm uninstall --user 0 com.google.android.printservice.recommendation
 pm uninstall --user 0 com.google.android.projection.gearhead
 pm uninstall --user 0 com.google.android.setupwizard
-pm uninstall --user 0 com.google.android.syncadapters.calendar
-pm uninstall --user 0 com.google.android.syncadapters.contacts
 pm uninstall --user 0 com.google.android.tts
 pm uninstall --user 0 com.google.ar.core
 pm uninstall --user 0 com.hiya.star
