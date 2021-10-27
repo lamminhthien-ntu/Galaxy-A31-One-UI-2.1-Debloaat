@@ -1,5 +1,5 @@
 # Preset was created in ADB AppControl 1.7.1
-# Total applications: 204
+# Total applications: 203
 # 10/27/2021 9:41 PM
 # Samsung SM-A315G Deleted applications
 com.aura.oobe.samsung.gl
